@@ -1,4 +1,3 @@
-# PRNU-Code
 # Blind PRNU-based Image Clustering Pipeline
 
 カメラの固有ノイズ（PRNU: Photo-Response Non-Uniformity）を利用して、撮影元カメラごとに画像を自動分類（クラスタリング）する Python パイプラインです。  
